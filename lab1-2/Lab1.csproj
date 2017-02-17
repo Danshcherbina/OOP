@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CannedProduce.cs" />
+    <Compile Include="Interfaces.cs" />
     <Compile Include="Toys.cs" />
     <Compile Include="MilkProduce.cs" />
     <Compile Include="Produce.cs" />
