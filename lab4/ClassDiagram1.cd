@@ -1,34 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="ConsoleApplication1.СannedProduce" Collapsed="true">
-    <Position X="5.25" Y="3.25" Width="1.5" />
+    <Position X="2.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAgAAEAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAQAgAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
       <FileName>CannedProduce.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="ConsoleApplication1.MilkProduce" Collapsed="true">
-    <Position X="7.5" Y="3.25" Width="1.5" />
+    <Position X="4.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAQAEAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAQAAQAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
       <FileName>MilkProduce.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="ConsoleApplication1.Produce" Collapsed="true">
-    <Position X="6.25" Y="1.75" Width="1.5" />
+    <Position X="2" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAIAAAAAAEAEAAIAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAIAAAQAAEAAAAIAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
       <FileName>Produce.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="ConsoleApplication1.Product" Collapsed="true">
-    <Position X="7.5" Y="0.5" Width="1.5" />
+    <Position X="4.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAADAAAAAQAAAAAAAEAAAQQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAQBAAAAAAIQAAAAAAAARAQAAAEAAAAAAAAAAABACA=</HashCode>
       <FileName>Product.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
-  <Class Name="ConsoleApplication1.Program" Collapsed="true">
+  <Class Name="Program" Collapsed="true">
     <Position X="12.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
@@ -36,18 +40,146 @@
     </TypeIdentifier>
   </Class>
   <Class Name="ConsoleApplication1.Toys" Collapsed="true">
-    <Position X="9.75" Y="1.75" Width="1.5" />
+    <Position X="6.75" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAgAAAAAAAAIAMAAAAAAAABAAAACBAAAAEAAAAA=</HashCode>
+      <HashCode>AAAAAAgAAAAAQAAIAIAAAAAAAABAAABCBAAAAEAAAAA=</HashCode>
       <FileName>Toys.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="ConsoleApplication1.ExpToy" Collapsed="true">
-    <Position X="9.75" Y="3.25" Width="1.5" />
+    <Position X="7.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
       <FileName>ExpToy.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
+  <Class Name="AbstractGoods" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABBAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractGoods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication1.Check" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAABACA=</HashCode>
+      <FileName>Check.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication1.Delights" Collapsed="true">
+    <Position X="6.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAABBABCACAAAAAAAAAAAABMQAAAAAAAAA=</HashCode>
+      <FileName>Delights.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleApplication1.Extension" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication1.FakeProd&lt;T&gt;" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FakeProd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication1.Salary" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAEAAAAAIBBAAAABAAAAMABAAAAAFAAAAAAQ=</HashCode>
+      <FileName>Salary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication1.CopyOfСannedProduce" Collapsed="true">
+    <Position X="2.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAgAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CannedProduce.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleApplication1.CopyOfMilkProduce" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAQAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MilkProduce.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleApplication1.CopyOfProduce" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAQAAEAAAAIAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Produce.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleApplication1.CopyOfProduct" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQBAAAAAAIQAAAAAAAARAQAAAEAAAAAAAAAAABACA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleApplication1.CopyOfToys" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAQAAIAIAAAAAAAABAAABCBAAAAEAAAAA=</HashCode>
+      <FileName>Toys.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleApplication1.CopyOfExpToy" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>ExpToy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CopyOfAbstractGoods" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABBAAAAAAIAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractGoods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication1.CopyOfFakeProd&lt;T&gt;" Collapsed="true">
+    <Position X="4.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FakeProd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication1.CopyOfCheck" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAgAAAAAAAAAAAAAAAABACA=</HashCode>
+      <FileName>Check.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApplication1.CopyOfSalary" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAEAAAAAIBBAAAABAAAAMABAAAAAFAAAAAAQ=</HashCode>
+      <FileName>Salary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ConsoleApplication1.Days" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAARAAAAAAAAAAAAAQAAEAAAAAEAAAAAIQ=</HashCode>
+      <FileName>Salary.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

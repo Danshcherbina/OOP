@@ -23,4 +23,21 @@ namespace ConsoleApplication1
             return val;
         }
     }
+
+    [Serializable]
+    internal class CopyOfFakeProd<T> where T : AbstractGoods
+    {
+        private T val;
+
+        public CopyOfFakeProd(T prod)
+        {
+            val = prod;
+        }
+
+
+        public T getValue()
+        {
+            return val;
+        }
+    }
 }

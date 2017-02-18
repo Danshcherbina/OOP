@@ -13,3 +13,14 @@ abstract public class AbstractGoods
     abstract public void toBeChecked();
 
 }
+
+[Serializable]
+abstract public class CopyOfAbstractGoods
+{
+    public int price;
+    public string name;
+    abstract public void check();
+    abstract public void stole();
+    abstract public void toBeChecked();
+
+}

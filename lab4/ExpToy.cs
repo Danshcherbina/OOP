@@ -29,4 +29,28 @@ namespace ConsoleApplication1
         }
 
     }
+
+    class CopyOfExpToy : Toys, ToyThings, ProductThings
+    {
+        private static int prices = 1200;
+        private CopyOfExpToy(string name, int price, string country)
+           : base(name, price, country)
+        {
+            this.name = "Rare toy " + name;
+        }
+        public static Toys crtExpToy(string name, int money, string country)
+        {
+            if (money > prices)
+            {
+                var CopyOfExpToy = new CopyOfExpToy(name, money, country);
+                return CopyOfExpToy;
+            }
+            else
+            {
+                Console.WriteLine("fail of creation:not enough gold");
+            }
+            return new Toys(name, money, country);
+        }
+
+    }
 }
